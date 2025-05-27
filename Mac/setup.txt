@@ -1,0 +1,4 @@
+To install the requirements for this software please use: "pip3.13 -r requirements.txt".
+
+Please note on MacOS to use tkinter properly you must be using python version 3.13.
+

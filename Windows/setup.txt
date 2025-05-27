@@ -1,0 +1,2 @@
+To install the requirements for this software please use: "pip -r requirements.txt".
+
